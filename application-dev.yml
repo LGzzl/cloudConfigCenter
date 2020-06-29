@@ -1,6 +1,6 @@
 server:
-  port: 3344
-
+  port: 6666
+#测试更新
 spring:
   application:
     name: cloud-config-center
