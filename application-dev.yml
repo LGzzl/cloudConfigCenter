@@ -3,7 +3,7 @@ server:
 #测试更新
 spring:
   application:
-    name: cloud-config-center
+    name: cloud-config-client
   cloud:
     config:
       server:
