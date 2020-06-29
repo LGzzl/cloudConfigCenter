@@ -1,5 +1,5 @@
 server:
-  port: 6666
+  port: 3344
 #测试更新
 spring:
   application:
